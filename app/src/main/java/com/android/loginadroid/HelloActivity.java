@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import static com.android.loginadroid.UserSaver.DB_PATH;
+import static com.android.loginadroid.UserRepo.DB_PATH;
 
 public class HelloActivity extends AppCompatActivity {
 
